@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB01-Verify Checkboxes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6108713-52a7-4de3-90fe-bbb3523226cf</testCaseGuid>
+   <variable>
+      <defaultValue>'Checkboxes'</defaultValue>
+      <description></description>
+      <id>58c1256b-1953-4980-9b3b-aa1d4e53302e</id>
+      <masked>false</masked>
+      <name>_expectedTitle</name>
+   </variable>
+</TestCaseEntity>

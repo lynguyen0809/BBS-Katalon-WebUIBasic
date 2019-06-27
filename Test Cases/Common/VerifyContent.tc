@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyContent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16003886-eb03-46a3-87b1-a38754b2f7d4</testCaseGuid>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>9c039eec-b054-48d5-be25-052de07a3149</id>
+      <masked>false</masked>
+      <name>_expectedContent</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB06-Verify Alert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f8f550f-2d45-48c6-abb6-e89f9767860d</testCaseGuid>
+   <variable>
+      <defaultValue>'JavaScript Alerts'</defaultValue>
+      <description></description>
+      <id>55f56c6b-d53d-45b1-9e12-8361445d2f82</id>
+      <masked>false</masked>
+      <name>_expectedTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'I am a JS Alert'</defaultValue>
+      <description></description>
+      <id>e8e0a320-cf4a-4bd3-8c56-5bb0885604b9</id>
+      <masked>false</masked>
+      <name>_expectedAlertMsg</name>
+   </variable>
+   <variable>
+      <defaultValue>'You successfuly clicked an alert'</defaultValue>
+      <description></description>
+      <id>b9a2f261-b5fb-46b9-bbc9-6f463b82c958</id>
+      <masked>false</masked>
+      <name>_msgOKAlert</name>
+   </variable>
+   <variable>
+      <defaultValue>'You clicked: Cancel'</defaultValue>
+      <description></description>
+      <id>c22244d4-0d74-4960-9fd3-09ab28e15a42</id>
+      <masked>false</masked>
+      <name>_msgCancelAlert</name>
+   </variable>
+   <variable>
+      <defaultValue>'You entered: Hello'</defaultValue>
+      <description></description>
+      <id>c44ca71f-0c26-4acf-ae3c-b7040696c325</id>
+      <masked>false</masked>
+      <name>_msgEnteredAlert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hello'</defaultValue>
+      <description></description>
+      <id>252df5d4-e7ce-45b3-ae3f-5b3fff201e65</id>
+      <masked>false</masked>
+      <name>_enteredText</name>
+   </variable>
+</TestCaseEntity>

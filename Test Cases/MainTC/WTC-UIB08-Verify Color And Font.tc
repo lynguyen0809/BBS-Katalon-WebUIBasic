@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB08-Verify Color And Font</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5304d5df-2287-4fe4-b023-35c4a3ddc9da</testCaseGuid>
+   <variable>
+      <defaultValue>'Challenging DOM'</defaultValue>
+      <description></description>
+      <id>61134da6-a65a-4195-8c13-2f2563b71e7c</id>
+      <masked>false</masked>
+      <name>_expectedTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'16px'</defaultValue>
+      <description></description>
+      <id>3a9f4d08-e448-4b34-81a4-ae2cd72ebca3</id>
+      <masked>false</masked>
+      <name>_expFontsize</name>
+   </variable>
+</TestCaseEntity>

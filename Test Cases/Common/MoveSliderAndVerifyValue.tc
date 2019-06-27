@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MoveSliderAndVerifyValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cb50be0-9f3d-4cfb-9383-cf0c394f4085</testCaseGuid>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>d2d1e6e8-6439-4938-9a98-ebc71c93a399</id>
+      <masked>false</masked>
+      <name>_expectedValue</name>
+   </variable>
+</TestCaseEntity>

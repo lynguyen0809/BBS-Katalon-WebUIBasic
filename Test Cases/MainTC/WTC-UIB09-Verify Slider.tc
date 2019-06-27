@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB09-Verify Slider</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70008824-7381-4eca-8a10-35a93080b76b</testCaseGuid>
+   <variable>
+      <defaultValue>'Horizontal Slider'</defaultValue>
+      <description></description>
+      <id>7afe1755-b9b8-4a36-8313-adb7a17e08e8</id>
+      <masked>false</masked>
+      <name>_expectedTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>1c5b8435-4e28-4c4f-8142-d9aa15afda7c</id>
+      <masked>false</masked>
+      <name>_sliderValue1</name>
+   </variable>
+   <variable>
+      <defaultValue>2.5</defaultValue>
+      <description></description>
+      <id>d32d48f2-4099-4ae6-8db9-ff1262e233aa</id>
+      <masked>false</masked>
+      <name>_sliderValue2</name>
+   </variable>
+   <variable>
+      <defaultValue>4.5</defaultValue>
+      <description></description>
+      <id>729781bb-396b-480a-bf35-459c7756fdbb</id>
+      <masked>false</masked>
+      <name>_sliderValue3</name>
+   </variable>
+</TestCaseEntity>

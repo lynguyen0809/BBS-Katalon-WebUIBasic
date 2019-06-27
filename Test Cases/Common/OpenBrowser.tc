@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpenBrowser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65feff0b-a5fc-4ae8-ae12-c1dcc44153a9</testCaseGuid>
+   <variable>
+      <defaultValue>'&quot;https://the-internet.herokuapp.com/&quot;'</defaultValue>
+      <description></description>
+      <id>36c15380-d13f-4506-97e9-65b1e0c977bc</id>
+      <masked>false</masked>
+      <name>_url</name>
+   </variable>
+</TestCaseEntity>

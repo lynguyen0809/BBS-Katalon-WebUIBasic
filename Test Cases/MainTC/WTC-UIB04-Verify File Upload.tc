@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB04-Verify File Upload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72cedfd8-66ae-48f7-92ae-43e0c51e5a1e</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\KIBO-Auto\\testImage.png'</defaultValue>
+      <description></description>
+      <id>2ea3b9f3-9d98-4db6-8b7a-7ca6973b22c3</id>
+      <masked>false</masked>
+      <name>_imgPath</name>
+   </variable>
+   <variable>
+      <defaultValue>'testImage.png'</defaultValue>
+      <description></description>
+      <id>d99afb65-b517-4db9-88d2-ceceb804ea73</id>
+      <masked>false</masked>
+      <name>_imgName</name>
+   </variable>
+   <variable>
+      <defaultValue>'File Uploader'</defaultValue>
+      <description></description>
+      <id>fbabd68f-7f84-4139-ac93-c54103fec873</id>
+      <masked>false</masked>
+      <name>_headerTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'File Uploaded!'</defaultValue>
+      <description></description>
+      <id>a8284526-381f-4e79-bb00-c7170c8befd3</id>
+      <masked>false</masked>
+      <name>_headerResult</name>
+   </variable>
+</TestCaseEntity>

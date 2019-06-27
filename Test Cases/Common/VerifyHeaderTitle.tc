@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyHeaderTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d60bb417-a706-4626-9e4b-91612fdf3ada</testCaseGuid>
+   <variable>
+      <defaultValue>'title'</defaultValue>
+      <description></description>
+      <id>d77580e6-202e-4d23-9ed4-f5bf2a4d6d15</id>
+      <masked>false</masked>
+      <name>_headerTitle</name>
+   </variable>
+</TestCaseEntity>

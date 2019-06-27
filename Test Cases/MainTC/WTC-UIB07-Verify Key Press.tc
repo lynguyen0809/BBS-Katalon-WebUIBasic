@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB07-Verify Key Press</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1f21440-1a8a-4307-beb8-ccb700da7135</testCaseGuid>
+   <variable>
+      <defaultValue>'Key Presses'</defaultValue>
+      <description></description>
+      <id>07f85467-fb9d-4cf3-b8f5-6214406b7a70</id>
+      <masked>false</masked>
+      <name>_expectedTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'You entered: TAB'</defaultValue>
+      <description></description>
+      <id>945cb763-ee9d-45a0-b8ba-6d7c624fa3b7</id>
+      <masked>false</masked>
+      <name>_msgTAB</name>
+   </variable>
+   <variable>
+      <defaultValue>'You entered: ENTER'</defaultValue>
+      <description></description>
+      <id>583a6df5-beaa-4360-a8e0-2233ddc9d2ba</id>
+      <masked>false</masked>
+      <name>_msgENTER</name>
+   </variable>
+   <variable>
+      <defaultValue>'You entered: G'</defaultValue>
+      <description></description>
+      <id>6f41566e-5832-42bd-9042-d5a384b7b3d6</id>
+      <masked>false</masked>
+      <name>_msgG</name>
+   </variable>
+</TestCaseEntity>

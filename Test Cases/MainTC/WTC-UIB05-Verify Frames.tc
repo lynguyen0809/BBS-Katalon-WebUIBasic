@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB05-Verify Frames</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b304286-248a-47da-a003-6a304dce70b5</testCaseGuid>
+   <variable>
+      <defaultValue>'Your content goes here.'</defaultValue>
+      <description></description>
+      <id>aafbaebf-f952-4b7f-b494-57222b1fb81a</id>
+      <masked>false</masked>
+      <name>_defaultContent</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hello, how are you?'</defaultValue>
+      <description></description>
+      <id>cf1a04c1-4f70-4ba3-bb22-f531ceb96bd7</id>
+      <masked>false</masked>
+      <name>_inputContent</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB03-Verify Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ca98a9d-8262-4a7b-a599-631332390a3e</testCaseGuid>
+   <variable>
+      <defaultValue>'Option 2'</defaultValue>
+      <description></description>
+      <id>fc4ace88-0b92-4e26-a798-2dfc13c91f5f</id>
+      <masked>false</masked>
+      <name>_lblOption2</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>5fb2c82f-7350-4700-93ae-8360accf4026</id>
+      <masked>false</masked>
+      <name>_index1</name>
+   </variable>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>360455a6-77d2-4aad-95dd-58266176549d</id>
+      <masked>false</masked>
+      <name>_index2</name>
+   </variable>
+</TestCaseEntity>

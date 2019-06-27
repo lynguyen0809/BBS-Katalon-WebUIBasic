@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC-UIB10-Verify Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e56066f0-6a53-48f6-9881-db81adcdd9be</testCaseGuid>
+   <variable>
+      <defaultValue>'JQueryUI - Menu'</defaultValue>
+      <description></description>
+      <id>055e20ad-94ee-4cab-b9d9-4d4c593711a8</id>
+      <masked>false</masked>
+      <name>_expectedTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'JQuery UI'</defaultValue>
+      <description></description>
+      <id>59d9bde8-7d1d-4b5d-acf7-71517753789f</id>
+      <masked>false</masked>
+      <name>_UIHeaderTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Enabled'</defaultValue>
+      <description></description>
+      <id>deab4328-7e0c-4284-a14e-fb4b3c036d32</id>
+      <masked>false</masked>
+      <name>_optEnabled</name>
+   </variable>
+   <variable>
+      <defaultValue>'Back to JQuery UI'</defaultValue>
+      <description></description>
+      <id>bf8966a0-2216-479f-9f1d-fd02c0822abd</id>
+      <masked>false</masked>
+      <name>_optJQueryUI</name>
+   </variable>
+</TestCaseEntity>

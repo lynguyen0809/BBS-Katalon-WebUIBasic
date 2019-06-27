@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyResultMsg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf8e4cd9-8743-4aa1-8f3e-5369ab5a79bf</testCaseGuid>
+   <variable>
+      <defaultValue>'expected'</defaultValue>
+      <description></description>
+      <id>aef067ca-7011-4b28-a8e3-dc8e432e60c6</id>
+      <masked>false</masked>
+      <name>_expectedResultMsg</name>
+   </variable>
+</TestCaseEntity>
